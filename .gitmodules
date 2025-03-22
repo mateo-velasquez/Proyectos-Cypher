@@ -1,0 +1,3 @@
+[submodule "GoT"]
+	path = GoT
+	url = https://github.com/mateoveda/GoT.git
